@@ -1,0 +1,15 @@
+{
+    "name": "rodwinpieterse/cqrs",
+    "autoload": {
+        "psr-4": {
+            "cqrs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodwin",
+            "email": "rodwin.pieterse@mukuru.com"
+        }
+    ],
+    "require": {}
+}
